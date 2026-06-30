@@ -16,4 +16,3 @@ API Testing Collection
 Tools:
 - Postman
 - Selenium
-README.md
